@@ -1,27 +1,10 @@
->Can you make a temp directory
+>Can you make a temp directory?
 
-Run `mkdir temp`
+Run `mkdir tmp`
 
 >Can you make a log directory in your class directory?
 
-Run `mkdir temp`
+Run `pwd` then `cd` to get to your class directory, then run `mkdir tmp/<insert log name>`
+For homework, be sure to get to `cd ~/workspace/davinci_coders_t2_2015/homework/learn_command_line_exercises/` before running `mkdir tmp/' 
 
->20 directories
 
-mkdir temp 
-
-mkdir temp/blkcats 
-
-mkdir temp/blkcats/"Serenity and Jinx"
-
-mkdir temp/horoscope 
-
-mkdir temp/horoscope/chinese 
-
-mkdir temp/horoscope/chinese/rabbit/horse/snake
-
-mkdir temp 
-
-mkdir temp/pie 
-
-mkdir temp/pie/cherry/apple/peach/pecan
