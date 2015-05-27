@@ -11,8 +11,8 @@ If I need to get to the class directory I would run `cd ~/workspace/davinci_code
 
 >3) Are you in your home directory?
 
-I would run `pwd` to see if I am in my home directory
-If I was in my home directory, I will see this in iTerm:  `/Users/sharonsena/workspace`
+I would run `cd` to go to my home directory
+When I am in my home directly, I would see this in iTerm:  `apples-MacBook-Pro:~ sharonsena$`
 
 >4) What directory did you run that command in?
 
