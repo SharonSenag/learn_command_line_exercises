@@ -1,7 +1,7 @@
 >What host are you on?
 
-I would run `hostname` to see what host I am on
+I would run `hostname` to read my computer's network name
 
 >Are you on your local machine?
 
-I would run `hostname` to see if I am on my local machine
+I would run `hostname` to show that my computer's network name is `apples-MacBook-Pro.local`
