@@ -1,11 +1,11 @@
 >Can you remove the tmp directory?
 
-Run `cd tmp`
+Run `cd ~`
 
 Run `rmdir tmp` 
 
 >Let's remove the tmp directory.
 
-Run `cd tmp`
+Run `cd ~`
 
 Run `rmdir tmp`
