@@ -1,26 +1,18 @@
 >Can you cd into the temp directory?
  
-From home directory (~), run cd /tmp
+From home directory (~), run cd tmp
  
 >Why don't we go into the temp directory?
  
-From home directory (~), Run cd /tmp
+From home directory (~), run cd tmp
  
 >Can you go to the slash temp directory?
  
-Run cd /tmp /tmp
-
-Example:
-
-apples-MacBook-Pro:learn_command_line_exercises sharonsena$ cd /tmp /tmp
-
-apples-MacBook-Pro:tmp sharonsena$ pwd
-
-/tmp
+Run cd /tmp 
 
 >Can you go to the slash temp slash log directory?
 
-Run cd /tmp /tmp
+Run cd /tmp/log
 
 >What does the .. argument to cd do?  Explain.
 
