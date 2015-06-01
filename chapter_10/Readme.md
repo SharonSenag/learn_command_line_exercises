@@ -2,23 +2,22 @@ Copy a file (cp)
 
 >Can you copy the foo.txt file to slash temp? (Create foo.txt first...)
 
-No, permission is denied because it is the master directory
+apples-MacBook-Pro:tmp sharonsena$ ls
+sspractice	stuff		tmp
 
-example: 
-apples-MacBook-Pro:temp sharonsena$ cd sspractice
+apples-MacBook-Pro:tmp sharonsena$ ls sspractice
+foo.txt
 
-apples-MacBook-Pro:sspractice sharonsena$ ls 
+apples-MacBook-Pro:tmp sharonsena$ cd sspractice/
 
-  foo.txt
+apples-MacBook-Pro:sspractice sharonsena$ cp foo.txt /tmp
 
-apples-MacBook-Pro:sspractice sharonsena$ cp foo.txt /temp
-  
-  cp: /temp: Permission denied
-
+apples-MacBook-Pro:sspractice sharonsena$ ls
+foo.txt
 
 >Can you copy .bash_profile in your home directory to the current directory?
 
-Run cp ~/Desktop/.bash_profile ~/Documents
+Run cp ~/sharonsena/.bash_profile ~/Desktop
 
 >Explain what Robocopy is
 
