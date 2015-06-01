@@ -3,9 +3,11 @@ Copy a file (cp)
 >Can you copy the foo.txt file to slash temp? (Create foo.txt first...)
 
 apples-MacBook-Pro:tmp sharonsena$ ls
+
 sspractice	stuff		tmp
 
 apples-MacBook-Pro:tmp sharonsena$ ls sspractice
+
 foo.txt
 
 apples-MacBook-Pro:tmp sharonsena$ cd sspractice/
@@ -13,6 +15,7 @@ apples-MacBook-Pro:tmp sharonsena$ cd sspractice/
 apples-MacBook-Pro:sspractice sharonsena$ cp foo.txt /tmp
 
 apples-MacBook-Pro:sspractice sharonsena$ ls
+
 foo.txt
 
 >Can you copy .bash_profile in your home directory to the current directory?
