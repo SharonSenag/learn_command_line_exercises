@@ -20,7 +20,7 @@ foo.txt
 
 >Can you copy .bash_profile in your home directory to the current directory?
 
-Run cp ~/sharonsena/.bash_profile ~/Desktop
+Run cp ~/.bash_profile ~/Desktop
 
 >Explain what Robocopy is
 
