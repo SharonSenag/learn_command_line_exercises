@@ -1,0 +1,10 @@
+line of bar text
+
+line of bar text
+
+line of bar text with error
+
+line of bar text with error
+
+line of bar text
+

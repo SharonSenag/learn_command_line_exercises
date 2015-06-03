@@ -1,0 +1,11 @@
+line of foo txt
+
+line of foo txt
+
+line of foo txt with error
+
+line of foo txt with error
+
+line of foo txt
+
+line of foo txt
