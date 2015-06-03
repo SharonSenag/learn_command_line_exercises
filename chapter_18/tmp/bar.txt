@@ -1,10 +1,5 @@
-line of bar text
-
-line of bar text
-
-line of bar text with error
-
-line of bar text with error
-
-line of bar text
-
+line of bar txt
+line of bar txt
+line of bar txt with Davinci
+line of bar txt with Davinci
+line of bar txt
