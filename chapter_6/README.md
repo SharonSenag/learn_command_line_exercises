@@ -1,15 +1,25 @@
 >What's in the tmp directory?
 
-In cd tmp, run `ls` to list what is in the tmp directory
+Run `cd tmp`
+
+Run `ls` to list what is in the tmp directory
 
 >Can you show me what files are in that directory?
 
-In cd tmp, run `ls` to show what files reside in a directory
+Run `ls directory_name`
 
 >What files are in your home directory?
 
-In cd tmp, run `ls` to list files.  To show details of files in ls, run `ls -lR`
+If not in home directory, run `cd ~` to get there
+
+Then run `ls` to list files
+
+To show details of files in ls, run `ls -lR`
 
 >What's in slash temp?
 
-In cd tmp, run `ls` to list files.  To show details of files in ls, run `ls -lR`
+Run `cd /tmp`
+
+Run `ls` to list files
+
+
