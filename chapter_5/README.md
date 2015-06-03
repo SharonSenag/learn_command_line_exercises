@@ -1,18 +1,18 @@
 >Can you cd into the temp directory?
  
-From home directory (~), run cd tmp
+From home directory (~), run cd temp
  
 >Why don't we go into the temp directory?
  
-From home directory (~), run cd tmp
+From home directory (~), run cd temp
  
 >Can you go to the slash temp directory?
  
-Run cd /tmp 
+Run cd /temp 
 
 >Can you go to the slash temp slash log directory?
 
-Run cd /tmp/log
+Run cd /temp/log
 
 >What does the .. argument to cd do?  Explain.
 
@@ -22,24 +22,52 @@ Use the .. to move "up" in the tree and path
 
 >>cd to the joe directory with one command
 
-cd tmp/joe
+From temp run `cd stuff/things/frank/joe`
+
+apples-MacBook-Pro:temp sharonsena$ cd stuff/things/frank/joe
+
+apples-MacBook-Pro:joe sharonsena$ ls
+
+alex
 
 >>cd back to temp with one command, but not further above that.
 
-cd ../../../
+cd ../../../../
 
 >>Find out how to cd to your "home directory" with one command.
 
-cd 
+cd ~
 
 >>cd to your Documents directory, then find it with your GUI file browser (Finder, Windows Explorer, etc.).
 
-cd documents
+Run `cd ~/documents`
+
+Shell output:
+
+apples-MacBook-Pro:~ sharonsena$ cd ~/documents
+
+apples-MacBook-Pro:documents sharonsena$ pwd
+
+/Users/sharonsena/documents
 
 >>cd to your Downloads directory, then find it with your file browser.
 
-cd downloads
+Run `cd ~/downloads`
+
+apples-MacBook-Pro:~ sharonsena$ cd ~/downloads
+
+apples-MacBook-Pro:downloads sharonsena$ pwd
+
+/Users/sharonsena/downloads
 
 >>Find another directory with your file browser, then cd to it.
 
-cd workspace
+Run `cd ~/workspace`
+
+Shell output: 
+
+apples-MacBook-Pro:~ sharonsena$ cd ~/workspace
+
+apples-MacBook-Pro:workspace sharonsena$ pwd
+
+/Users/sharonsena/workspace
