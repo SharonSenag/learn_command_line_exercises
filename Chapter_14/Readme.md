@@ -10,9 +10,7 @@ Run `rm development.log`
 
 >Can you remove everything in the slash temp slash foo directory?
 
-Run `rmdir /tmp` then
-
-Run `rm -rf /tmp /foo`
+Run `rm -rf /tmp/foo`
 
 >Why is it dangerous to run "rm -rf /" (DO NOT RUN THIS COMMAND)
 
