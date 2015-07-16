@@ -1,6 +1,6 @@
-## Wildcard matching
+# Wildcard matching
 
-> ### How big is foo.txt?
+> ## How big is foo.txt?
 
 Run `du -h foo.txt`
 
@@ -12,11 +12,11 @@ apples-MacBook-Pro:chapter_15 sharonsena$ du -h foo.txt
 
 reference url:  http://www.cyberciti.biz/faq/how-to-see-file-size-on-linux-unix/
 
-> ### Can you output all the txt files in this directory?
+> ## Can you output all the txt files in this directory?
 
 cd into directory then run `ls *txt`
 
-> ### Show me the content of the text files in slash temp.
+> ## Show me the content of the text files in slash temp.
 
 cd into ` ~ tmp` directory
 
@@ -34,19 +34,19 @@ This class is fun
 
 Oh so much fun
 
-> ### Additional questions from Jason
+> ## Additional questions from Jason
 
-> ### Running ls *.txt would list all files in this directory that end in txt. How would you display the contents? 
+> ## Running ls *.txt would list all files in this directory that end in txt. How would you display the contents? 
 
 Run `ls -R` to list all directories and all their contents
 
-> ### Can you show the content of the text files in slash temp without navigating (cd) there first?
+> ## Can you show the content of the text files in slash temp without navigating (cd) there first?
 
 Run `ls chapter_16/tmp`
 
 output: `chapter_16.txt`
 
-> ### The following is a brief list of options commonly used with ls. 
+> ## The following is a brief list of options commonly used with ls. 
 
 >-a (all) — Lists all files in the directory, including hidden files (.filename). The .. and . at the top of your list refer to the parent directory and the current directory, respectively.
 
