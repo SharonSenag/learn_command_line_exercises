@@ -2,7 +2,7 @@
 
 To set the debug environment variable to true:
 
-run `export DEBUG=true
+run `export DEBUG=true`
 
 To see the result of the set variable:
 
